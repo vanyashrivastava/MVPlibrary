@@ -1,0 +1,224 @@
+The Double Helix
+James D. Watson
+NON-FICTION
+EDUCATION
+Recounting the discovery of DNA.
+3.84
+143
+Anna Karenina
+Leo Tolstoy
+FICTION
+Anna Karenina
+TRAGEDY
+Tragic love story of an affair.
+4.10
+964
+The Girl on the Train
+Paula Hawkins
+FICTION
+Rachel Watson
+THRILLER
+Distressed woman becomes entangled in missing person investigation.
+3.96
+336
+Becoming
+Michelle Obama
+NON-FICTION
+PERSON
+Journey of a former First Lady.
+4.44
+426
+Source Code
+Bill Gates
+NON-FICTION
+PERSON
+Story of Bill Gates' Life.
+4.21
+336
+The Origin of Species
+Charles Darwin
+NON-FICTION
+EDUCATION
+A book on evolution.
+4.01
+703
+To Kill a Mockingbird
+Harper Lee
+FICTION
+Atticus Finch
+THRILLER
+A lawyer defends a Black man accused of rape.
+3.89
+323
+The Great Gatsby
+Scott Fitzgerald
+FICTION
+Jay Gatsby
+TRAGEDY
+Following a mysterious millionaire in NYC.
+3.93
+180
+Ulysses
+James Joyce
+FICTION
+Leopold Bloom
+TRAGEDY
+Following Leopold Bloom's day in Dublin, rich with literary allusions and stream-of-consciousness.
+3.77
+783
+A Portrait of the Artist as a Young Man
+James Joyce
+FICTION
+Stephen Dedalus
+TRAGEDY
+Stephen Dedalus's journey of self-discovery and artistic awakening.
+3.64
+329
+Lolita
+Vladimir Nabokov
+FICTION
+Humbert Humbert and Dolores Haze
+TRAGEDY
+Humbert Humbert's obsession with Dolores Haze.
+3.87
+376
+Brave New World
+Aldous Huxley
+FICTION
+John the Savage and Bernard Marx
+FANTASY
+A technologically advanced society suppresses individuality.
+3.99
+268
+The Sound and the Fury
+William Faulkner
+FICTION
+Quentin Compson, Jason Compson and Caddy Compson
+TRAGEDY
+The Compson family's decline through multiple perspectives.
+3.86
+300
+Catch-22
+Joseph Heller
+FICTION
+John Yossarian
+ADVENTURE
+Yossarian's absurd experiences in WWII.
+3.99
+453
+Darkness at Noon
+Arthur Koestler
+FICTION
+Rubashov
+THRILLER
+A revolutionary's psychological torment during Stalin's purges.
+4.12
+216
+Sons and Lovers
+D.H. Lawrence
+FICTION
+Paul Morel
+TRAGEDY
+Paul Morel's struggles with family and love.
+3.64
+654
+The Grapes of Wrath
+John Steinbeck
+FICTION
+Tom Joad, Ma Joad
+ADVENTURE
+The Joad family's migration during the Great Depression.
+4.02
+464
+Under the Volcano
+Malcolm Lowry
+FICTION
+Geoffrey Firmin
+TRAGEDY
+Geoffrey Firmin's struggles with alcoholism in Mexico.
+3.76
+423
+The Elements of Style
+William Strunk Jr.
+NON-FICTION
+EDUCATION
+A concise guide to writing effectively and clearly.
+4.18
+105
+In Cold Blood
+Truman Capote
+NON-FICTION
+EVENT
+A chilling account of a family’s murder and the aftermath.
+4.09
+343
+I Know Why the Caged Bird Sings
+Maya Angelou
+NON-FICTION
+PERSON
+A memoir of Maya Angelou’s struggles and triumphs.
+4.30
+289
+Fast Food Nation
+Eric Schlosser
+NON-FICTION
+EVENT
+Investigates the impact of fast food on culture and health.
+3.75
+387
+The Omnivore’s Dilemma
+Michael Pollan
+NON-FICTION
+EDUCATION
+Explores choices and consequences in food consumption.
+4.19
+450
+On Writing: A Memoir of the Craft
+Stephen King
+NON-FICTION
+EDUCATION
+A personal guide to writing and reflections on the craft.
+4.34
+320
+Maus: A Survivor's Tale
+Art Spiegelman
+NON-FICTION
+EVENT
+A graphic novel detailing the Holocaust through animals.
+4.39
+159
+A Walk in the Woods
+Bill Bryson
+NON-FICTION
+EVENT
+A humorous account of hiking the Appalachian Trail.
+4.07
+288
+Guns, Germs, and Steel
+Jared Diamond
+NON-FICTION
+EDUCATION
+Examines factors shaping human history and societies.
+4.04
+498
+Hiroshima
+John Hersey
+NON-FICTION
+EVENT
+Chronicles six survivors of the Hiroshima bombing.
+4.04
+152
+Silent Spring
+Rachel Carson
+NON-FICTION
+EDUCATION
+Highlights environmental concerns and pesticide effects.
+4.05
+378
+The Autobiography of Malcolm X
+Malcolm X
+NON-FICTION
+PERSON
+The life and insights of Malcolm X as narrated to Alex Haley.
+4.37
+466
